@@ -40,9 +40,9 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 
 # How to run the project?
 
-1.Instal virtual wb server (i.e. XAMPP, WAMP).
-2.Download, copy or fork repository to your virtula server. 
-3.Run index.html.
-4.Use left menu to changee the feeds. 
-5.Enjoy reading posts.
+1. Instal virtual wb server (i.e. XAMPP, WAMP).
+2. Download, copy or fork repository to your virtula server. 
+3. Run index.html.
+4. Use left menu to changee the feeds. 
+5. Enjoy reading posts.
 
